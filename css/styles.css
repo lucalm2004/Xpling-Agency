@@ -543,8 +543,8 @@ text-align: center;
     }
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 400px) {
     .navegacion a {
-        font-size: 0.15rem;
+        font-size: 0.1rem;
     }
 }
