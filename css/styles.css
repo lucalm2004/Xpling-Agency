@@ -534,4 +534,11 @@ text-align: center;
     .sobremiimg {
         width: 100%;
     }
+
+
+}
+@media only screen and (max-width: 650px) {
+    .navegacion a {
+        font-size: 0.25rem;
+    }
 }
