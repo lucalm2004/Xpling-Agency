@@ -539,6 +539,6 @@ text-align: center;
 }
 @media only screen and (max-width: 650px) {
     .navegacion a {
-        font-size: 0.25rem;
+        font-size: 0.2rem;
     }
 }
