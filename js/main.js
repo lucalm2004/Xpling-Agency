@@ -27,9 +27,9 @@ var check=document.querySelector('.check');
 
 function idioma(canviar){
     if (canviar=='en'){
-        location.href="en/index.html"
+        location.href="index2.html"
     }else{
-        location.href="../index.html"
+        location.href="index.html"
     }
 }
 
